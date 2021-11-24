@@ -5,7 +5,7 @@
 
 
 ## DISEÑO EN TINKERCAD
-![Image](https://ieevm.github.io/robottortuga1/rtv2_1.png) 
+![Image](https://ieevm.github.io/robottortuga2/rtv2_1.png) 
 
 ### PIEZAS DEL ROBOT
 Rueda Izquierda [Ver](https://github.com/ieevm/robottortuga2/blob/gh-pages/01Rueda_Izquierda_rtv2.stl)
