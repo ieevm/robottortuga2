@@ -8,15 +8,17 @@
 ![Image](https://github.com/ieevm/robottortuga2/blob/gh-pages/rtv2_1.png) 
 
 ### PIEZAS DEL ROBOT
-Chasis del Robot [Ver](https://github.com/ieevm/robottortuga1/blob/gh-pages/01Chasis_rtv1.stl)
+Rueda Izquierda [Ver](https://github.com/ieevm/robottortuga2/blob/gh-pages/01Rueda_Izquierda_rtv2.stl)
 
-Soporte de la Rueda [Ver](https://github.com/ieevm/robottortuga1/blob/gh-pages/02SoporteRueda_rtv1.stl)
+Rueda Derecha [Ver](https://github.com/ieevm/robottortuga2/blob/gh-pages/02Rueda_Derecha_rtv2.stl)
 
-Rueda [Ver](https://github.com/ieevm/robottortuga1/blob/gh-pages/03Rueda_rtv1.stl)
+Soporte de Driver [Ver](https://github.com/ieevm/robottortuga2/blob/gh-pages/03Soporte_Driver_rtv2.stl)
 
-Soporte de la Matriz de Led [Ver](https://github.com/ieevm/robottortuga1/blob/gh-pages/04SoporteLed_rtv1.stl)
+Soporte de Servo y Lapicero [Ver](https://github.com/ieevm/robottortuga2/blob/gh-pages/04Soporte_Driver_02_rtv2.stl)
 
-Soporte del Lapicero [Ver](https://github.com/ieevm/robottortuga1/blob/gh-pages/05SoporteLapicero_rtv1.stl)
+Soporte de Baterias [Ver](https://github.com/ieevm/robottortuga2/blob/gh-pages/05Soporte_Servo_lapicero_rtv2.stl)
+
+Soporte de Canica [Ver](https://github.com/ieevm/robottortuga2/blob/gh-pages/07Soporte_Canica_rtv2.stl)
 
 ## CODIGO EN ARDUINO
 
