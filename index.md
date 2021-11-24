@@ -1,11 +1,11 @@
 ## I.E. ERNESTO VILLANUEVA MUÑOZ
 ### CAJARURO - UTCUBAMBA - AMAZONAS
 ## Robot Tortuga Versión 02
-![Image](https://github.com/ieevm/robottortuga2/blob/gh-pages/rtv2_2.png)
+![Image](https://ieevm.github.io/robottortuga2/rtv2_2.png)
 
 
 ## DISEÑO EN TINKERCAD
-![Image](https://github.com/ieevm/robottortuga2/blob/gh-pages/rtv2_1.png) 
+![Image](https://ieevm.github.io/robottortuga1/rtv2_1.png) 
 
 ### PIEZAS DEL ROBOT
 Rueda Izquierda [Ver](https://github.com/ieevm/robottortuga2/blob/gh-pages/01Rueda_Izquierda_rtv2.stl)
